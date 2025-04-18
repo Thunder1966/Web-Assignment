@@ -1,0 +1,14 @@
+.model{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border:10px red solid;
+    text-align: center;
+}
+.box1{
+    height:300px;
+    width:300px;
+    border-width:10px;
+    border-style: solid;
+    background-color: aqua;
+}

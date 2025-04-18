@@ -1,0 +1,24 @@
+.relative{
+    /absolute/
+    position: relative;
+    top:0;
+    left:0;
+    bottom:0;
+    border: 2px solid red;
+}
+.ABD{
+    position:absolute;
+    top:0;
+    left:0;
+}
+.imgrelative{
+    position: relative;
+}
+.Rajath{
+    position:absolute;
+    top:20px;
+    left:0px;
+}
+.imgrelative{
+    position: relative;
+}
