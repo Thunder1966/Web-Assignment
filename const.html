@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> Java Script Dates</h1>
+    <p> Create a new date object with the current date and time</p>
+    <p id="demo"></p>
+    <script>
+        const d =new Date();
+        document.getElementById("demo").innerHTML =d.getFullYear();
+        document.getElementById("demo").innerHTML =d.getDate();
+        document.getElementById("demo").innerHTML =d.getDay();
+        document.getElementById("demo").innerHTML =d.getTimezoneOffset();
+
+    </script>
+</body>
+</html>
